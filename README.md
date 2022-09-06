@@ -1,3 +1,13 @@
+# Users App
+
+This is an aplication that allows you to add users to the list. You can also remove them. 
+
+# Screenshot
+
+![Zrzut ekranu 2022-09-6 o 17 47 45](https://user-images.githubusercontent.com/105987428/188684737-c93ebeae-0aa2-4bf9-8712-fc91f41a7d50.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
